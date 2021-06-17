@@ -1,7 +1,6 @@
+# Milwaukee Rampage FC
 ***
 ![milwaukee_rampage_fc.jpg](https://github.com/wswager/milwaukee_rampage_fc/blob/main/images/milwaukee_rampage_fc.jpg)
-***
-# Milwaukee Rampage FC
 ***
 Milwaukee Rampage FC are a returning professional soccer club looking to form a professional women's team to enter into the second-tier of US Women's Soccer, [United Women's Soccer (UWS)](https://uwssoccer.com/).
 
@@ -9,9 +8,13 @@ Milwaukee Rampage FC was founded in 1993 and formerly operated a men's professio
 
 Due to the success of the [Chicago Red Stars](https://www.chicagoredstars.com/) sustaining a team in the US Women's first-tier, the [National Women's Soccer League (NWSL)](www.nwslsoccer.com), since 2013, Milwaukee Rampage FC feel the Milwaukee market is well positioned to support a second-tier team, with hopes of future expansion into the NWSL as the sport grows within the US.
 
-Milwaukee Rampage FC are in the process of building their support staff and infrastructure and have requested support for the training staff by a data science department, with the goal of helping the team achieve maximum efficiency, allowing for maximum success and entertainment value on the field while controlling costs, primarily in player acquisition and salaries.
+Milwaukee Rampage FC are in the process of building their support staff and infrastructure and have requested support for the training staff by a data science department, with the goal of helping the team achieve maximum efficiency, allowing for maximum success and entertainment value on the field while controlling costs.
 
-With this goal in mind, Milwaukee Rampage FC have requested an expected goals model which can help predict the likelihood of goals based on available data, which the training staff can utilize to analyze game data and provide actionable insights on the training ground for players on how to increase the likelihood of goals.
+With this goal in mind, Milwaukee Rampage FC have requested an expected goals model which can help predict the likelihood of goals based on available data, which the training staff can utilize to:
+* Analyze game data and provide actionable insights on the training ground for players on how to increase the likelihood of goals
+  * This type of coaching support can help maximize the player's ability to score goals, helping improve results of the team in wins v losses, but, potetially more importantly in maximizing the efficacy of the team toward results while helping control costs toward player acquisition and/or salaries
+* Assessing opponent teams and players and providing actionable insights in tactical planning
+  * This type of scouting support can help improve the results on the results of the team in wins v losses, but, also, help toward increasing the entertainment value of matches with more goals hopefully resulting in greater fan engagement, which can translate directly into increased revenue
 ***
 ## Expected Goals (xG)
 ***
