@@ -149,7 +149,7 @@ If a team is over-scoring, then the following hypothesis may apply:
 
 (*The reverse hypothesis would be applicable to teams under-scoring*)
 ***
-# Next Steps
+### Next Steps
 
 * Create a visual mapping shot location on a field diagram with a color-gradient for xG applied to shot points, visually indicating the distances and angles with the highest xG
 * Engineer a feature creating a triangle of vectors from the shot location to each post of the goal, and then mapping if opposition players were between the shot and goal at the time of the shot
@@ -157,5 +157,7 @@ If a team is over-scoring, then the following hypothesis may apply:
 * Extract more assist-specific features in order to develop an Expected Assist (xA) metric
 ***
 **Wes Swager**
+
 [Email](mail.westin.swager@lsventures.com)
+
 [LinkedIn](linkedin.com/in/wes-swager-36a84a2a)
