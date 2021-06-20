@@ -25,6 +25,8 @@ The Milwaukee Rampage FC have requested an expected goals model which can help p
 xG is a commonly referred to metric within soccer used to represent the probability a scoring opportunity may result in a goal.
 
 xG is not a standardized metric, and therefore various data science companies, betting organizations, and teams build their own proprietary models to predict xG.
+
+*Further detail regarding xG is available in the blog post, [What is xG?](https://github.com/wswager/milwaukee_rampage_fc/blob/main/what_is_xg.md)*
 ***
 # Data
 
