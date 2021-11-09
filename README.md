@@ -26,7 +26,7 @@ For this project a supervised approach was used with the training data for the m
 ## Data Extraction
 
 
-    _Data extraction is the act or process of retrieving data out of…data sources for further data processing_
+    'Data extraction is the act or process of retrieving data out of…data sources for further data processing'
 
 _[Wikipedia](https://en.wikipedia.org/wiki/Data_extraction)_
 
@@ -36,10 +36,6 @@ _[Wikipedia](https://en.wikipedia.org/wiki/Data_extraction)_
 The data for this project was extracted from[ StatsBomb](https://statsbomb.com/)’s Open Data.
 
 StatsBomb are a United Kingdom based football (soccer) data analytics company. StatsBomb provide free access to a segment of their proprietary dataset via GitHub:[ StatsBomb Open Data](https://github.com/statsbomb/open-data)
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.jpg "image_tooltip")
